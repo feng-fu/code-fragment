@@ -1,2 +1,7 @@
-# some code fragment mark in Issue.
-1. Issue 1: a very simple clipborad func.
+## 在issue中记录一些代码片段
+1. 简单实现`copy`
+2. 一个简单地轮播插件
+3. `es5`中的继承
+4. `js-xlsx`的使用记录
+5. 数组降维
+6. 从少数派的`markdown`修改过来的`markdown`样式，用于公众号
